@@ -10,11 +10,9 @@ services:
     component: fc
     actions:
       pre-deploy:
-        - run: GO111MODULE=on go get github.com/aliyun/fc-runtime-go-sdk
+        - run: go mod tidy
           path: ./code
         - run: GO111MODULE=on GOOS=linux CGO_ENABLED=0 go build -o target/main main.go
-          path: ./code
-        - run: go mod tidy
           path: ./code
     props: # 组件的属性值
       region: ${vars.region} # 关于变量的使用方法，可以参考：https://www.serverless-devs.com/serverless-devs/yaml#变量赋值
