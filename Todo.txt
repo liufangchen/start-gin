@@ -1,0 +1,12 @@
+1.前置条件：本地go环境
+setup-go    ×
+
+2.测试通过：
+linux   √
+Mac     ？
+Windows ？
+
+3.github action
+npm install @serverless-devs/s -g   × 
+s cli registry login                ×
+s cli registry publish              ×
