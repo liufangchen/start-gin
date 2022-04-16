@@ -2,7 +2,7 @@ Type: Application
 Name: start-gin
 Provider:
   - 阿里云
-Version: 1.0.3
+Version: 1.0.4
 Description: Gin是基于Go的web框架，拥有良好的性能。此项目是基于Gin的入门程序
 HomePage: https://github.com/liufangchen/start-gin
 Tags:
