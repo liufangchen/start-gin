@@ -14,7 +14,7 @@
 # Quick start
 
 - [:octocat: source](https://github.com/liufangchen/start-gin)
-- [:earth_africa: Effect Preview](http://start-gin.testservice.1401662146685254.cn-hangzhou.fc.devsapp.net/)
+- [:earth_africa: Effect Preview](http://start-gin.demoservice.1401662146685254.cn-hangzhou.fc.devsapp.net/)
 
 ## Deploy via command line tools
 

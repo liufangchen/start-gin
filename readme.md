@@ -15,7 +15,7 @@
 # 快速开始
 
 - [:octocat: 源代码](https://github.com/liufangchen/start-gin)
-- [:earth_africa: 效果预览](http://start-gin.testservice.1401662146685254.cn-hangzhou.fc.devsapp.net/)
+- [:earth_africa: 效果预览](http://start-gin.demoservice.1401662146685254.cn-hangzhou.fc.devsapp.net/)
 
 ## 通过应用中心部署
 
