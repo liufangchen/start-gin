@@ -1,4 +1,4 @@
-# Hugo case
+# Gin case
 
 <toc>
 
